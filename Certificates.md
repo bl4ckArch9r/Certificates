@@ -8,7 +8,9 @@
 1. [CISCO Ethical Hacker](#eh)
 
 1. [CISCO Junior Cybersecurity Analyst Career Path](#jca)
-   
+
+1. [ISC2 Certified in Cybersecurity (CC)](#cc)
+    
 1. [CISCO Cyber Threat Management](#ctm)
 
 1. [Advent of Cyber 2024 - THM](#aoc)
@@ -67,6 +69,11 @@
 ## CISCO Junior Cybersecurity Analyst Career Path
 
 ![CISCO Junior Cybersecurity Analyst Career Path](https://github.com/bl4ckArch9r/Certificates/blob/main/Images/1737814365367.jpeg)
+
+<a id="eh"></a>
+## ISC2 Certified in Cybersecurity (CC)
+
+![ISC2 Certified in Cybersecurity (CC)](https://github.com/bl4ckArch9r/Certificates/blob/main/Images/cc.jpeg)
 
 
 <a id="ctm"></a>
