@@ -66,7 +66,7 @@
 <a id="jca"></a>
 ## CISCO Junior Cybersecurity Analyst Career Path
 
-![CISCO Junior Cybersecurity Analyst Career Path]()
+![CISCO Junior Cybersecurity Analyst Career Path](https://github.com/bl4ckArch9r/Certificates/blob/main/Images/1737814365367.jpeg)
 
 
 <a id="ctm"></a>
