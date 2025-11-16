@@ -7,6 +7,8 @@
 
 1. [CISCO Ethical Hacker](#eh)
 
+1. [CISCO Junior Cybersecurity Analyst Career Path](#jca)
+   
 1. [CISCO Cyber Threat Management](#ctm)
 
 1. [Advent of Cyber 2024 - THM](#aoc)
@@ -60,6 +62,11 @@
 ## CISCO Verified Ethical Hacker
 
 ![CISCO Verified Ethical Hacker](https://github.com/CHEEKU-UM/Certificates/blob/main/Images/CISCO%20Cetified%20Ethical%20Hacker.jpg)
+
+<a id="jca"></a>
+## CISCO Junior Cybersecurity Analyst Career Path
+
+![CISCO Junior Cybersecurity Analyst Career Path]()
 
 
 <a id="ctm"></a>
